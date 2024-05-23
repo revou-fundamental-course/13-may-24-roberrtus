@@ -1,6 +1,6 @@
 /* ini css */
 body {
-    background-color: beige;
+    background-color: rgb(185, 211, 136);
 }
 
 .section-content {
@@ -19,7 +19,7 @@ body {
     padding-top: 12px;
     padding-bottom: 12px;
     width: 100%;
-    background-color: white;
+    background-color: rgb(185, 211, 136);
     border: 0;
     color: blue;
     font-style: italic;
